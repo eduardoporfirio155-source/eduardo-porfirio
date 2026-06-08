@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia del Toluca FC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #c00000;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #c00000;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+
+        .dato {
+            background: #ffe5e5;
+            padding: 10px;
+            border-left: 5px solid #c00000;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Historia del Toluca FC</h1>
+        <p>Uno de los clubes más exitosos del fútbol mexicano</p>
+    </header>
+
+    <main>
+        <h2>Fundación</h2>
+        <p>
+            El Deportivo Toluca Fútbol Club fue fundado el 12 de febrero de 1917
+            en la ciudad de Toluca, Estado de México. Es uno de los equipos con
+            mayor tradición en el fútbol mexicano.
+        </p>
+
+        <h2>Primeros años</h2>
+        <p>
+            Durante sus primeras décadas, el club participó en ligas regionales
+            hasta consolidarse en el fútbol profesional mexicano.
+        </p>
+
+        <h2>Época Dorada</h2>
+        <p>
+            Toluca vivió una de sus mejores etapas durante las décadas de 1990 y
+            2000, obteniendo múltiples campeonatos de liga y convirtiéndose en
+            uno de los equipos dominantes del país.
+        </p>
+
+        <div class="dato">
+            <strong>Dato destacado:</strong> Toluca ha ganado varios títulos de
+            Primera División y es considerado uno de los clubes más exitosos de México.
+        </div>
+
+        <h2>Jugadores Históricos</h2>
+        <ul>
+            <li>José Saturnino Cardozo</li>
+            <li>Hernán Cristante</li>
+            <li>Vicente Pereda</li>
+            <li>Antonio Naelson "Sinha"</li>
+        </ul>
+
+        <h2>Estadio</h2>
+        <p>
+            El equipo juega como local en el
+            <strong>Estadio Nemesio Diez</strong>, conocido como "La Bombonera",
+            uno de los estadios más emblemáticos de México.
+        </p>
+
+        <h2>Actualidad</h2>
+        <p>
+            Toluca continúa siendo protagonista en la Liga MX, manteniendo una
+            afición apasionada y una rica historia deportiva.
+        </p>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Página informativa sobre la historia del Toluca FC</p>
+    </footer>
+
+</body>
+</html>
